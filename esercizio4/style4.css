@@ -1,0 +1,162 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #EAEDED;
+}
+
+.top-logo {
+    background-color: #222F3E;
+}
+
+.top-logo img {
+    height: 4em;
+    margin-left: 1em;
+}
+
+.top-nav {
+    background-color: #354758;
+    color: white;
+    font-size: 0.9rem;
+    padding: 0.4rem;
+}
+
+.top-nav span {
+    margin-left: 1em;
+}
+
+ main {
+    margin: 1em;
+}
+
+.orange-bar {
+    background-color: orangered;
+    text-align: center;
+    color: white;
+    font-size: 0.8em;
+    padding: 0.1em;
+}
+
+.middle-title {
+    background-image: url(assets/bg-image.png);
+    color: white;
+    text-align: center;
+    padding: 1.5em;
+    margin-top: 2em;
+}
+
+.middle-img {
+    background-color: white;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 1rem;
+}
+
+.middle-img img {
+    height: 350px;
+    width: 300px;
+    margin-left: 3.5em;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #E2E6E9;
+    object-fit: cover;
+}
+
+.middle-img div {
+    padding-top: 0.2rem;
+}
+
+.middle-img  div h3 {
+    padding-left: 1.5em;
+}
+
+.bottom-img img {
+    height: auto;
+    width: 100%;
+}
+
+.under-img h3 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.span-link {
+    font-size: 0.8rem;
+    color: #75AFBA;
+    margin-left: 1.5rem;
+}
+
+.footer-a {
+    text-align: center;
+    background-color: #354758;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.footer-a a {
+    color: white;
+}
+
+ .footer-img {
+    background-color: #222F3E;
+    text-align: center;
+ }
+
+ .footer-img img {
+    height: 50px;
+    padding: 3em;
+ }
+
+ section{
+    margin-bottom: 2em;
+ }
+
+ section .div-figure:nth-child(1n+1) {
+    margin-right: 1em;
+ }
+
+ .div-figure {
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    margin-top: 1em;
+}
+
+ .figure {
+    display: inline-block;
+    margin: 1rem;
+ }
+
+ figure img {
+    width: 140px;
+    height: 120px;
+ }
+
+ #new-logo {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 162px;
+    left: 120px;
+ }
+
+ #new-logo2 {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: -2px;
+    bottom: 75px;
+ }
+
+ #new-logo3 {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 162px;
+    left: 120px;
+ }
+
+ .div-figure h2 {
+    font-weight: 600;
+    padding-left: 1em;
+    font-size: 1.3rem;
+ }
+
